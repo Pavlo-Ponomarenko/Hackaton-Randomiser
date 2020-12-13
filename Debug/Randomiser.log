@@ -1,0 +1,6 @@
+﻿  Random.cpp
+C:\Users\Пользователь\Desktop\Projects\Randomiser\Random.cpp(7,20): warning C4018:  '<': signed/unsigned mismatch
+  Randomiser.cpp
+  Generating Code...
+C:\Users\Пользователь\Desktop\Projects\Randomiser\Random.cpp(34,20): warning C4018:  '<': signed/unsigned mismatch
+  Randomiser.vcxproj -> C:\Users\Пользователь\Desktop\Projects\Randomiser\Debug\Randomiser.exe
