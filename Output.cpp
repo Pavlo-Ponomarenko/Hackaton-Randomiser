@@ -22,7 +22,7 @@ void PrintByGroups(vector<FRecord>& list, string path) {
 	for (int i = 0; i < list.size(); i++) {
 		file << list[i].teacher << "," << list[i].subject << "," << list[i].group << "," << list[i].student;
 		if (list[i].points == -1) file << ",зачет\n";
-		else file << list[i].points << '\n';
+		else file << "," << list[i].points << '\n';
 	}
 	file.close();
 }
